@@ -2,6 +2,7 @@
 hawaii.sqlite
 flask_run
 .DS_Store
+_untracked_/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
